@@ -2,7 +2,7 @@
 
 Task for flutter module 06 live test.
 Here is the output:
-![Screenshot](https://github.com/your-username/your-repository/raw/main/screenshot.png)
+![Screenshot](https://github.com/cmtboy/module_06_livetest/blob/main/ss.jpg)
 
 
 ## Getting Started
